@@ -1,0 +1,19 @@
+### // log in as Rafabateria
+POST https://localhost:8080/auth/login
+Content-Type: application/json
+
+{ "Username" : "Rafabateria", "Password" : "1234" }
+
+### // log in as Juan22
+POST https://localhost:8080/auth/login
+Content-Type: application/json
+
+{ "Username" : "Juan22", "Password" : "4321" }
+
+### // allow anonymous
+GET https://localhost:8080/test/allowanon
+
+### // must be authorized
+GET https://localhost:8080/Test/authorized
+Authorization: Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKV1RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiJkNzc5ZjY0Yy0yNzJkLTRkYzktOTA1NC0zYTY5OWQ4MGQyOTciLCJpYXQiOiI2LzExLzIwMjIgMTA6MTg6MzkiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiUmFmYWJhdGVyaWEiLCJleHAiOjE2Njc3MzM1MTksImlzcyI6IkpXVEF1dGhlbnRpY2F0aW9uU2VydmVyIiwiYXVkIjoiSldUU2VydmljZUJsYXpvcldhc21DbGllbnQifQ.5zhCo74UtuyFtZkGZeYPt2AsIOnpljHkU8wPIBOGjUNAAS7bcwCCWkpK37oMAbPYl8WqPR6kGBvB6Eu9wllB9Q
+

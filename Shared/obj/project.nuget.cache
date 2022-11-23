@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yj9dwdBFwr764IQOJAs1PDgDYrMniRQrvWFcJCY4dopNgnvqzfrum9gS4S0OEHC2qhCERWtQ+OGrAOO1PKVQ4w==",
+  "success": true,
+  "projectFilePath": "/Users/rafael/Library/Mobile Documents/com~apple~CloudDocs/Denmark/Software Engineering/Semester 3/DNP_1/Assignment_DNP/Shared/Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafael/.nuget/packages/microsoft.aspnetcore.authorization/7.0.0-rc.2.22476.2/microsoft.aspnetcore.authorization.7.0.0-rc.2.22476.2.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/microsoft.aspnetcore.metadata/7.0.0-rc.2.22476.2/microsoft.aspnetcore.metadata.7.0.0-rc.2.22476.2.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-rc.2.22472.3/microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0-rc.2.22472.3/microsoft.extensions.logging.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/microsoft.extensions.options/7.0.0-rc.2.22472.3/microsoft.extensions.options.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/microsoft.extensions.primitives/7.0.0-rc.2.22472.3/microsoft.extensions.primitives.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

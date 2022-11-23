@@ -1,0 +1,16 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1>RedditCone</h1>
+<br/>
+<br/>
+<p>Assignment made by: Rafael Sánchez Córdoba</p>
+
+<AuthorizeView>
+    <Authorized>
+        <br/>
+        <br/>
+        <h5>Hello @context.User.Identity?.Name :)</h5>
+    </Authorized>
+</AuthorizeView>
